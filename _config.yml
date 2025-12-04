@@ -1,25 +1,12 @@
 title: "AlpacaData"
 description: "Blog su AI, Business Intelligence e Analytics"
-baseurl: "" # IMPORTANTE: lascia vuoto per username.github.io
-url: "https://alpacadata.github.io" # senza slash finale
+baseurl: ""
+url: "https://alpacadata.github.io"
 
 repository: "alpacadata/alpacadata.github.io"
 github_username: "alpacadata"
 
 theme: jekyll-theme-cayman
 
-cayman_theme:
-  skin: default # default, dark, auto
-  
 lang: en
 timezone: Europe/Rome
-
-plugins: []
-
-navigation:
-  - title: "Home"
-    url: /
-  - title: "Progetti"
-    url: /progetti/
-  - title: "Tutorial"
-    url: /tutorial/
