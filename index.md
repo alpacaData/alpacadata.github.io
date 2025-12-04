@@ -23,4 +23,4 @@ title: Home
 - **Data Analytics**: Analisi dati, visualizzazioni
 
 ---
-*© 2024 AlpacaData*
+*© 2024 AlpacaData* 
