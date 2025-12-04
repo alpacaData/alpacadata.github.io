@@ -3,26 +3,26 @@ layout: default
 title: Home
 ---
 
-<section class="page-header">
+<header class="page-header">
   <h1 class="project-name">AlpacaData</h1>
   <h2 class="project-tagline">Blog su AI · Business Intelligence · Analytics</h2>
   
   <a href="/progetti/" class="btn">Progetti</a>
   <a href="/tutorial/" class="btn">Tutorial</a>
   <a href="/blog/" class="btn">Blog</a>
-</section>
+</header>
 
-<section class="main-content">
-
-<h1>Ultimi articoli</h1>
-<ul>
-  {% for post in site.posts limit:5 %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+<main class="main-content">
+  <section>
+    <h1>Ultimi articoli</h1>
+    <ul>
+      {% for post in site.posts limit:5 %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </section>
+</main>
 
 <footer class="site-footer">
   <span class="site-footer-owner">© 2024 AlpacaData</span>
 </footer>
-
-</section>
