@@ -1,8 +1,6 @@
-title: "AlpacaData"
-description: "Blog su AI, Business Intelligence e Analytics"
 baseurl: ""
 url: "https://alpacadata.github.io"
-
+title : "Alpaca Data"
 repository: "alpacadata/alpacadata.github.io"
 github_username: "alpacadata"
 
