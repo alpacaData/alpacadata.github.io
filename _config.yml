@@ -67,11 +67,11 @@ disqus-shortname: "personal-jekyll-theme"
 events:
   - image: "/img/timeline/spidertocat.png"
     date: "October 2025 - Today"
-    description: "Here we are, in a time where robots might take over, but thankfully they only want to read my posts. Expect random rants, tech experiments, and the occasional quantum joke"
+    description: "Here we are, in a time where robots might take over, but thankfully they only want to read my posts"
   - image: "/img/timeline/baracktocat.jpg"
     date: "1492"
     description: "The internet? Almost. Where did my boat go?"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/fryfrozen.jpg"
     date: "3000 BC"
     description: "Humans invent Fire, and I invent.. a blog idea. It's basically the same : Spreading information but with fewer cave paintings"
 
