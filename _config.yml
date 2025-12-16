@@ -93,26 +93,21 @@ email: "your@email.here"
 
 author_blurb_image: "/img/author.png"
 author_blurb:
-  "'Github''s Octocat was designed by Simon Oxley, alongside the white bird Twitter
-  used (before they received a proper logo) as part of a usual routine of cranking
-  out images for iStock. GitHub saw it, and wanted it, presumably under the notion
-  that it can represent how complex code combines to create peculiar things, much
-  like the octopuss... except the CEO of GitHub called it an octocat, and it has
-  been the octocat since then."
+  "Hi! I’m Troy McClure,formerly know as AlpacaData,  you're hearing me from 3026 in your brain with my voice and I'll 
+   guide through the chaotic cosmos of data, code, and unpredictable analytics.
+   I wrangle datasets bigger than Planet Express’ cargo hold.
+   I chase insights faster than Bender can steal a shiny object.
+   Expect wild experiments with data fabric, neural nets, and spreadsheets that might actually be sentient.
+   Sometimes the data breaks reality… but that’s just part of the adventure.
+   Hop aboard! Analytics, chaos, and mild existential crises guaranteed"
 
 ##################
 # Social Buttons #
 ##################
 
 social:
-  - icon: "github"
-    url: "https://github.com/le4ker/personal-jekyll-theme"
   - icon: "linkedin-in"
     url: "https://www.linkedin.com"
-  - icon: "x-twitter"
-    url: "https://twitter.com/"
-  - icon: "rss"
-    url: "https://le4ker.github.io/personal-jekyll-theme/feed.xml"
 
 # NB! Tread carefully if you want to change the variables below this point!
 
