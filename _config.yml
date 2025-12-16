@@ -71,7 +71,7 @@ events:
   - image: "/img/timeline/baracktocat.jpg"
     date: "1492"
     description: "The internet? Almost. Where did my boat go?"
-   - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/baracktocat.jpg"
     date: "3000 BC"
     description: "Humans invent Fire, and I invent.. a blog idea. It's basically the same : Spreading information but with fewer cave paintings"
 
