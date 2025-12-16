@@ -92,19 +92,20 @@ email: "your@email.here"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 author_blurb_image: "/img/author.png"
-author_blurb:
-  "Hello! 
-   Since 2018 I've started my adventure in the planet... of Data, starting as a Big Data Engineer in Hadoop,Linux,Spark, QA, ML
-   and Tableau along other streaming tools.
-   In 2021 I moved into Analytics becoming a Data Analyst with core skills from Data Engineer and a Senior Data Engineer
-   working in PowerBI , Devops, Fabric, Azure, Databricks,Solution architecture, AI , SQL Server, Project Management and mentoring.
-   I've worked in a lot of data migration and my motto is "work smart, not hard". 
-   I like to automatize and fasten process for the whole team as I'm always asking myself "how can we do it better?", if I can
-   save computing time or making thing easier that are translated in good ROI, I'm the first to speak.
-   In my free time I'm like Batman, Programmer by day, Artist by night : I like to play guitar and paint :)
-   
-   Sometimes the data breaks reality… but that’s just part of the adventure.
-   Hop aboard! Analytics, chaos, and mild existential crises guaranteed"
+author_blurb: |
+  Hello! 
+  Since 2018 I've started my adventure in the planet... of Data, starting as a Big Data Engineer in Hadoop, Linux, Spark, QA, ML
+  and Tableau along other streaming tools.
+  In 2021 I moved into Analytics, becoming a Data Analyst with core skills from Data Engineering and a Senior Data Engineer,
+  working in PowerBI, DevOps, Fabric, Azure, Databricks, Solution Architecture, AI, SQL Server, Project Management, and mentoring.
+  I've worked on many data migrations and my motto is "work smart, not hard". 
+  I like to automate and accelerate processes for the whole team. I'm always asking myself "how can we do it better?". If I can
+  save computing time or make things easier, which translates into good ROI, I'm the first to speak.
+  In my free time I'm like Batman: Programmer by day, Artist by night. I like to play guitar and paint :)
+  
+  Sometimes the data breaks reality… but that’s just part of the adventure.
+  Hop aboard! Analytics, chaos, and mild existential crises guaranteed
+
 
 ##################
 # Social Buttons #
